@@ -1,0 +1,43 @@
+/* personalBackground.css
+CSS file for personalBackground.tsx. */
+
+.title-personal-background {
+  margin-top: 30px;
+}
+
+.greeting-personal-background {
+  margin-top: 10px;
+}
+
+.personal-background-photo1 {
+  width: 378px;
+  height: 529px;
+}
+
+.personal-background-photo2 {
+  width: 378px;
+  height: 504px;
+}
+
+.personal-background-photo3 {
+  width: 360px;
+  height: 450px;
+}
+
+.full-name,
+.birthday,
+.current-age,
+.hometown,
+.hobbies,
+.aspirations {
+  margin-left: 150px;
+  margin-top: 10px;
+}
+
+.hobbies-description {
+  margin-left: 270px;
+}
+
+.aspirations-description {
+  margin-left: 260px;
+}

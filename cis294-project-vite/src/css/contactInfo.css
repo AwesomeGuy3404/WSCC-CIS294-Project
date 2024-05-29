@@ -1,0 +1,25 @@
+/* contactInfo.css
+CSS file for contactInformation.tsx. */
+
+.title-contact-info {
+    position: relative;
+    top: -50px;
+}
+
+.greeting-contact-info {
+    position: relative;
+    top: -35px;
+  }
+
+.logo-dropdown {
+    position: relative;
+    height: 100px;
+    width: 100px;
+}
+
+.dropdown-button {
+    position: relative;
+    height: 125px;
+    width: 225px;
+    margin-top: 10px;
+}

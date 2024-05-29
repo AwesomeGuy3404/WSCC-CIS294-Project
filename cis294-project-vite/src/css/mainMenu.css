@@ -1,0 +1,28 @@
+/* mainMenu.css
+CSS file for mainMenutsx. */
+
+.title-home {
+  position: relative;
+  top: -70px;
+}
+
+.greeting-home {
+  position: relative;
+  top: -60px;
+}
+
+.picture1 {
+  position: relative;
+  width: 378px;
+  height: 529px;
+  left: -50px;
+  top: -50px;
+}
+
+.picture2 {
+  position: relative;
+  width: 378px;
+  height: 529px;
+  left: 50px;
+  top: -50px;
+}
